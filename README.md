@@ -11,3 +11,6 @@
 2 - Uma IA que seja alimentada com as escalações passadas e o planejamento das futuras de cada funcionário, para manter no limite do possível, uma escala dentro da aceitação dos funcionários (e que também receba observações, por exemplo, desempenho, algumas faltas de comportamento dos funcionário, etc. para poder entrar no balanceamento)
 
 3 - Uma IA que una os dados do final do dia e faça relatórios que sejam resumidos para que uma pessoa possa ler e entender o que está acontecendo de maneira mais rápida
+
+## Dependências
+    pip install -r dependencias.txt

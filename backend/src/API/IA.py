@@ -30,7 +30,7 @@ def generate_resume(nome_pasta, nome_manual, problem):
     messages = [
         {
             "role": "user",
-            "content": f"""Faça um resumo do manual passo a passo considerando o problema {problem}. Manual: {manual}"""
+            "content": f"""Elabore uma solução passo a passo baseada no manual considerando o problema {problem}. Manual: {manual}"""
         }
     ]
     response = openai.ChatCompletion.create(
