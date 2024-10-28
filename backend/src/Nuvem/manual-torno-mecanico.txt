@@ -1,0 +1,62 @@
+# Manual de Manutenção para Torno Mecânico
+
+## Índice
+1. Introdução
+2. Segurança
+3. Ferramentas Necessárias
+4. Manutenção Preventiva
+5. Manutenção Corretiva
+6. Solução de Problemas Comuns
+7. Especificações Técnicas
+8. Contato para Suporte
+
+---
+
+### 1. Introdução
+
+Este manual aborda os procedimentos de manutenção para o torno mecânico industrial.
+
+### 2. Segurança
+
+- Desligue a máquina da energia antes de iniciar a manutenção.
+- Use luvas e óculos de proteção ao manusear lâminas.
+
+### 3. Ferramentas Necessárias
+
+- Chaves Allen
+- Pincel de limpeza
+- Óleo lubrificante para guias
+- Escova de aço
+
+### 4. Manutenção Preventiva
+
+#### Semanal:
+- Limpe as guias e lubrifique todas as partes móveis.
+  
+#### Mensal:
+- Cheque o alinhamento da ferramenta e a fixação do mandril.
+
+#### Semestral:
+- Substitua o óleo de lubrificação dos eixos.
+
+### 5. Manutenção Corretiva
+
+1. Desconectar a máquina.
+2. Identificar problemas de alinhamento e ajuste de componentes.
+
+### 6. Solução de Problemas Comuns
+
+- **Problema**: Vibração excessiva
+  - **Solução**: Verifique o nívelamento do torno e aperte os parafusos.
+
+### 7. Especificações Técnicas
+
+- **Capacidade de Corte**: 500mm de diâmetro
+- **Potência do Motor**: 5 HP
+- **Voltagem**: 380V
+
+### 8. Contato para Suporte
+
+Para mais informações:
+- **Telefone**: (11) 8765-4321
+- **Email**: suporte@tornearia.com.br

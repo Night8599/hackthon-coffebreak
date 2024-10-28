@@ -1,0 +1,64 @@
+# Manual de Manutenção para Prensa Hidráulica
+
+## Índice
+1. Introdução
+2. Segurança
+3. Ferramentas Necessárias
+4. Manutenção Preventiva
+5. Manutenção Corretiva
+6. Solução de Problemas Comuns
+7. Especificações Técnicas
+8. Contato para Suporte
+
+---
+
+### 1. Introdução
+
+Este manual contém orientações para a manutenção de uma prensa hidráulica industrial, garantindo operação segura e estendida.
+
+### 2. Segurança
+
+- Desconecte a fonte de energia antes de manutenção.
+- Use óculos de proteção e luvas resistentes a óleo.
+- Tenha cuidado com as áreas de pressão e cabos.
+
+### 3. Ferramentas Necessárias
+
+- Conjunto de chaves de boca e Allen
+- Engraxadeira
+- Medidor de pressão hidráulica
+- Óleo hidráulico
+
+### 4. Manutenção Preventiva
+
+#### Diária:
+- Verifique o nível de óleo hidráulico e complete se necessário.
+- Inspecione vazamentos e estanqueidade dos cilindros.
+
+#### Mensal:
+- Limpe filtros e substitua o óleo hidráulico.
+
+#### Trimestral:
+- Calibre a pressão de operação.
+
+### 5. Manutenção Corretiva
+
+1. Desconectar fonte de energia.
+2. Identificar peças desgastadas e substituir por peças originais.
+
+### 6. Solução de Problemas Comuns
+
+- **Problema**: Perda de pressão
+  - **Solução**: Cheque o nível de óleo e o estado dos cilindros.
+
+### 7. Especificações Técnicas
+
+- **Capacidade de Pressão**: 150 toneladas
+- **Tipo de Óleo**: ISO 68
+- **Peso**: 2 toneladas
+
+### 8. Contato para Suporte
+
+Para mais informações, entre em contato:
+- **Telefone**: (11) 1234-5678
+- **Email**: suporte@prensasindustriais.com.br

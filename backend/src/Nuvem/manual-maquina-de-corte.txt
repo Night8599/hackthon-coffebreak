@@ -1,0 +1,88 @@
+
+# Manual de Manutenção para Máquina de Corte
+
+## Índice
+1. Introdução
+2. Segurança
+3. Ferramentas Necessárias
+4. Manutenção Preventiva
+5. Manutenção Corretiva
+6. Solução de Problemas Comuns
+7. Especificações Técnicas
+8. Contato para Suporte
+
+---
+
+### 1. Introdução
+
+Este manual fornece instruções detalhadas para a manutenção de rotina e solução de problemas de uma máquina de corte.
+Seguir estes procedimentos aumentará a vida útil do equipamento e manterá seu desempenho ideal.
+
+### 2. Segurança
+
+Para sua segurança e a de outros, observe estas instruções:
+- **Desconecte a máquina da energia elétrica** antes de qualquer manutenção.
+- Use **equipamentos de proteção individual (EPIs)**, como luvas, óculos de proteção e calçados apropriados.
+- Nunca toque nas lâminas ou partes móveis enquanto a máquina estiver em funcionamento.
+- Certifique-se de que o local de trabalho esteja limpo e organizado.
+
+### 3. Ferramentas Necessárias
+
+Abaixo estão listadas as ferramentas recomendadas para manutenção:
+- Chave de fenda
+- Alicate universal
+- Lubrificante
+- Escova para limpeza
+- Pano seco e limpo
+- Conjunto de chaves Allen
+
+### 4. Manutenção Preventiva
+
+Manutenção preventiva ajuda a evitar paradas inesperadas e garante o bom funcionamento da máquina.
+
+#### Diária:
+- Limpe as lâminas e remova resíduos de material cortado.
+- Verifique o alinhamento das lâminas.
+
+#### Semanal:
+- Lubrifique as partes móveis de acordo com as instruções do fabricante.
+- Verifique o estado dos cabos elétricos e conectores.
+
+#### Mensal:
+- Inspecione o motor e as engrenagens para desgaste.
+- Substitua peças desgastadas ou danificadas.
+
+### 5. Manutenção Corretiva
+
+Em caso de falha, siga estas etapas para manutenção corretiva:
+1. Desconecte a máquina da energia.
+2. Identifique a causa da falha (ex: lâmina quebrada, motor superaquecido).
+3. Substitua a peça defeituosa com peças originais.
+4. Teste a máquina antes de retomar o uso.
+
+### 6. Solução de Problemas Comuns
+
+- **Problema**: Máquina não liga
+  - **Solução**: Verifique a conexão elétrica e o disjuntor.
+  
+- **Problema**: Corte irregular
+  - **Solução**: Verifique o alinhamento e o estado da lâmina.
+  
+- **Problema**: Vibração excessiva
+  - **Solução**: Certifique-se de que a máquina está nivelada e estável.
+
+### 7. Especificações Técnicas
+
+- **Potência do Motor**: 1500W
+- **Voltagem**: 220V
+- **Capacidade de Corte**: 15mm de espessura máxima
+- **Peso**: 50 kg
+
+### 8. Contato para Suporte
+
+Para mais informações ou assistência técnica, entre em contato com o suporte:
+- **Telefone**: (11) 1234-5678
+- **Email**: suporte@maquinasdecorte.com
+- **Horário de Atendimento**: Segunda a sexta, das 8h às 17h
+
+---
